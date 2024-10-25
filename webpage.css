@@ -1,0 +1,36 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+.head{
+    border: 2px solid black;
+    background-color: white;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.i.bx.bx.search{
+    width: 400vw;
+    height: 15vh;
+    color: bisque;
+}
+.img{
+    width: 200pw;
+    height: 10vh;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.space{
+    margin: 20px;
+    padding: 2px;
+}
+.i.bx.bx.search{
+    margin-left: -5rem;
+}
